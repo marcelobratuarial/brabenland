@@ -165,8 +165,13 @@
         "icon": "checkup-medico.png",
         "bgimage": "",
         "title": "Checkup Médico",
-        "content": "Temp",
-        "vantagens": []
+        "content": "Sejam bem-vindos ao produto Check Up Médico. Aqui sua empresa proporciona ao seu associado qualidade de vida, consultas preventivas com clínico geral e ginecologista. Além de uma grande variedade laboratórios credenciados para realização de exames.",
+        "vantagens": [
+            "Ampla abrangência, cobrindo todo território brasileiro",
+            "Retorno para análise de exames",
+            "Controle da saúde",
+            "Melhor custo-benefício"
+        ]
     },
 
     
@@ -175,8 +180,13 @@
         "icon": "auxilio-medicamentos.png",
         "bgimage": "medicamentos.jpg",
         "title": "Auxílio Medicamento",
-        "content": "Temp",
-        "vantagens": []
+        "content": "Sejam bem-vindos ao produto Auxílio Medicamentos. Aqui seu associado possui acesso garantido e facilitado a medicamentos comuns, e também à medicamentos tarjados disponíveis em todo Brasil.",
+        "vantagens": [
+            "Central de Atendimento disponível 24 horas por dia",
+            "Farmácias credenciadas em todo Brasil",
+            "Orientação farmacêutica",
+            "Acesso simplificado à medicamentos"
+        ]
     },
 
     {
@@ -221,6 +231,5 @@
             "Orientação confiável"
         ]
     }
-    
 ]
 

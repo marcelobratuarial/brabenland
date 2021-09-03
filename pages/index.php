@@ -276,6 +276,18 @@
                             <label class="ls text-uppercase mb-0">Seu email</label>
                             <input class="form-control" type="email" name="email" placeholder="" required="required" />
                           </div>
+                          <div class="row">
+                            <?php foreach ($items as $k=>$i) : ?>
+                            <div class="col-md-6" data-content="">
+                              <div class="form-group form-check">
+                                <input type="checkbox" name="benef[]" value="<?= $i->title ?>" class="form-check-input" id="ben<?= $k ?>">
+                                <label class="form-check-label" for="ben<?= $k ?>"><?= $i->title ?></label>
+                              </div>
+                            </div>
+                            <?php endforeach; ?>
+                          </div>
+                          
+
                           <div class="form-group">
                             <label class="ls text-uppercase mb-0">Sua mensagem</label>
                             <textarea class="form-control" rows="4" name="message" placeholder="" required="required"></textarea>
@@ -291,9 +303,9 @@
                   <div class="col-lg-10">
                     <div class="rounded googlemap minh-50vh" data-latlng="-19.86165927393409, -43.939555792919684,17" data-scrollwheel="false" data-icon="assets/img/map-marker.png" data-zoom="17" data-theme="Default">
                       <div class="marker-content py-3">
-                        <h5>Eiffel Tower</h5>
-                        <p>Gustave Eiffel's iconic, wrought-iron 1889 tower,
-                          <br/> with steps and elevators to observation decks. </p>
+                        <h5>Clube Brasil Benefícios</h5>
+                                <p>Avenida Sebastião de Brito, 805
+                                  <br>Dona Clara - Belo Horizonte/MG</p>
                       </div>
                     </div>
                   </div>
