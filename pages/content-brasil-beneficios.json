@@ -4,7 +4,7 @@
         "icon": "assistencia-24h.png",
         "bgimage": "assistencia-24h.jpg",
         "title": "Assistência 24h",
-        "content": "Seu cliente solicita com agilidade e segurança todos os serviços de assistência 24h oferecidos pela Brasil Benefícios. O atendimento é realizado por centenas de prestadores, em todo território nacional.",
+        "content": "Seu associado solicita com agilidade e segurança todos os serviços de assistência 24h oferecidos pela Brasil Benefícios. O atendimento é realizado por centenas de prestadores, em todo território nacional.",
         "vantagens": [
             "Ampla variedade de serviços como reboque, troca de pneus, auxílio emergencial e muitos outros",
             "Assistência em qualquer lugar do Brasil",
@@ -17,11 +17,11 @@
         "icon": "carro-reserva.png",
         "bgimage": "carro-reserva.jpg",
         "title": "Carro Reserva",
-        "content": "Com o nosso serviço de Carro Reserva você proporciona muito mais segurança  e praticidade aos seus clientes. O produto é disponível para veículos de passeio e utilitário, e três planos são disponibilizados: 7, 15 ou 30 dias. Trabalhamos com a Localiza Rent a Car, a maior rede brasileira de lojas especializadas em aluguel de carros.",
+        "content": "Com o nosso serviço de Carro Reserva você proporciona muito mais segurança  e praticidade aos seus associados. O produto é disponível para veículos de passeio e utilitário, e três planos são disponibilizados: 7, 15 ou 30 dias. Trabalhamos com a Localiza Rent a Car, a maior rede brasileira de lojas especializadas em aluguel de carros.",
         "vantagens": [
             "Parceiro de confiaça",
             "Mais credibilidade para sua entidade",
-            "Comodidade para os seus clientes",
+            "Comodidade para os seus associados",
             "Veículos de qualidade",
             "Atendimento ágil",
             "Uso personalizado",
@@ -33,7 +33,7 @@
         "icon": "vidro.png",
         "bgimage": "vidros.jpg",
         "title": "Vidros",
-        "content": "Aqui seu cliente possui a comodidade para a troca de vidros com qualidade, melhor preço e assistência. Possuímos cobertura BÁSICA, COMPLETA E PLUS, para quatro tipos de veículo: “Passeio Nacional”, “Passeio Importado”, “Van” e “Caminhão”. Somos parceiros da Autoglass e das melhores redes credenciadas do Brasil.",
+        "content": "Aqui seu associado possui a comodidade para a troca de vidros com qualidade, melhor preço e assistência. Possuímos cobertura BÁSICA, COMPLETA E PLUS, para quatro tipos de veículo: “Passeio Nacional”, “Passeio Importado”, “Van” e “Caminhão”. Somos parceiros da Autoglass e das melhores redes credenciadas do Brasil.",
         "vantagens": [
             "Parceiros de confiança",
             "Agilidade no atendimento",
@@ -47,7 +47,7 @@
         "icon": "app.png",
         "bgimage": "app.jpg",
         "title": "Seguro App",
-        "content": "O objetivo do produto Acidentes Pessoais de Passageiros – APP é resguardar o seu cliente e os passageiros do veículo de possíveis acidentes que eles venham a sofrer e os impeçam de continuar suas atividades de trabalho. O seguro APP tem cobertura para morte por acidente, invalidez, despesas médicas e diárias de internação.",
+        "content": "O objetivo do produto Acidentes Pessoais de Passageiros – APP é resguardar o seu associado e os passageiros do veículo de possíveis acidentes que eles venham a sofrer e os impeçam de continuar suas atividades de trabalho. O seguro APP tem cobertura para morte por acidente, invalidez, despesas médicas e diárias de internação.",
         "vantagens": [
             "Contratação simplificada",
             "Segurança para o seu cliente",
@@ -72,7 +72,7 @@
         "icon": "funeral.png",
         "bgimage": "funeral.jpg",
         "title": "Funeral",
-        "content": "Com a Assistência Funeral da Brasil Benefícios a sua entidade oferece mais tranquilidade aos seus clientes nos momentos de luto. Contamos com os melhores serviços de funeral, cremação, atendimento social, traslado, entre outros.",
+        "content": "Com a Assistência Funeral da Brasil Benefícios a sua entidade oferece mais tranquilidade aos seus associados nos momentos de luto. Contamos com os melhores serviços de funeral, cremação, atendimento social, traslado, entre outros.",
         "vantagens": [
             "Mais segurança para o seu cliente",
             "Planos de cobertura capital a partir R$2.000,00 até R$5.000,00",
@@ -88,8 +88,13 @@
         "icon": "residencial.png",
         "bgimage": "residencial.jpg",
         "title": "Residencial",
-        "content": "Temp",
-        "vantagens": []
+        "content": "O serviço de Assistência Residencial é destinado a atender os imprevistos     emergenciais do dia-dia. A central de atendimento se encarregará de enviar ao domicílio do associado, um prestador devidamente capacitado para realizar o serviço emergencial solicitado.",
+        "vantagens": [
+            "Central de atendimento exclusiva",
+            "Atendimento 24hs por dia, durante todo o ano",
+            "Profissionais capacitados",
+            "Atendimento em todo território nacional"
+        ]
     },
 
 
@@ -98,7 +103,7 @@
         "icon": "pet.png",
         "bgimage": "pet.jpg",
         "title": "PET",
-        "content": "Os pets fazem parte de muitas famílias e eles também merecem um cuidado especial! Com a Assistência PET da Brasil Benefícios você oferece ao seu cliente um combo de serviços veterinários com uma ampla rede de atendimento para cães e gatos.",
+        "content": "Os pets fazem parte de muitas famílias e eles também merecem um cuidado especial! Com a Assistência PET da Brasil Benefícios você oferece ao seu associado um combo de serviços veterinários com uma ampla rede de atendimento para cães e gatos.",
         "vantagens": [
             "Ampla variedade de serviços como assistência funeral, agendamento de consultas, consultas veterinárias, envio de ração, entre outros",
             "Tranquilidade e segurança",
@@ -110,11 +115,15 @@
 
     {
         "bgcolor": "#F1C40F",
-        "icon": "",
+        "icon": "seguro-de-vida.png",
         "bgimage": "seguro-de-vida.jpg",
         "title": "Seguro de vida",
-        "content": "Temp",
-        "vantagens": []
+        "content": "O Seguro de Vida é um produto que traz conforto e tranquilidade os beneficiários do seu associado nos momentos difíceis. Ao contratar esse produto o associado estará coberto em caso de morte natural, morte acidental ou invalidez por acidente. São disponibilizados planos com capital de cobertura a partir de R$5.000 até R$20.000 em caso de evento coberto.",
+        "vantagens": [
+            "Contratação sem necessidade de Declaração Pessoal de Saúde",
+            "Indenização paga aos beneficiários em até 30 dias após entregue toda a documentação",
+            "Preços bem inferiores aos praticados pelo mercado tradicional"
+        ]
     },
 
 
@@ -123,22 +132,22 @@
         "icon": "odonto.png",
         "bgimage": "odonto.jpg",
         "title": "Odonto",
-        "content": "A saúde começa pela boca! Com a Assistência Odontológica da Brasil Benefícios sua entidade fornece serviços como extração dentária, drenagem de abscesso, coroa provisória, restauração e tratamento de urgência de doenças periodontais em fase aguda com dor para seus clientes.",
+        "content": "A saúde começa pela boca! Com a Assistência Odontológica da Brasil Benefícios sua entidade fornece serviços como extração dentária, drenagem de abscesso, coroa provisória, restauração e tratamento de urgência de doenças periodontais em fase aguda com dor para seus associados.",
         "vantagens": [
             "Tranquilidade em emergências",
             "Serviços domiciliares",
             "Ampla abrangência",
-            "Segurança aos seus clientes",
+            "Segurança aos seus associados",
             "Melhor custo-benefício"
         ]
     },
 
     {
         "bgcolor": "#E84C3D",
-        "icon": "",
+        "icon": "telemedicina.png",
         "bgimage": "telemedicina.jpg",
         "title": "Telemedicina",
-        "content": "A Telemedicina otimiza o tempo do seu cliente e proporciona um serviço de qualidade, por um custo mais baixo. Com esse serviço você proporciona conforto ao seu cliente oferecendo consultas de clínico geral e pediatra competentes por vídeo chamada, possibilitando receber receituário de medicamentos e solicitação de exames. Em casos não emergenciais, os especialistas ficam à disposição 24 horas por dia, abrangendo todo o território brasileiro.",
+        "content": "A Telemedicina otimiza o tempo do seu associado e proporciona um serviço de qualidade, por um custo mais baixo. Com esse serviço você proporciona conforto ao seu associado oferecendo consultas de clínico geral e pediatra competentes por vídeo chamada, possibilitando receber receituário de medicamentos e solicitação de exames. Em casos não emergenciais, os especialistas ficam à disposição 24 horas por dia, abrangendo todo o território brasileiro.",
         "vantagens": [
             "Maior rapidez no tratamento do seu cliente",
             "Otimização do tempo",
@@ -153,7 +162,7 @@
 
     {
         "bgcolor": "#34495E",
-        "icon": "",
+        "icon": "checkup-medico.png",
         "bgimage": "",
         "title": "Checkup Médico",
         "content": "Temp",
@@ -163,7 +172,7 @@
     
     {
         "bgcolor": "#F39C11",
-        "icon": "",
+        "icon": "auxilio-medicamentos.png",
         "bgimage": "medicamentos.jpg",
         "title": "Auxílio Medicamento",
         "content": "Temp",
@@ -175,7 +184,7 @@
         "icon": "",
         "bgimage": "",
         "title": "Mais Saúde",
-        "content": "Seu cliente com a saúde física e mental em dia! Com o produto Mais Saúde o seu cliente tem acesso a consultas por vídeo chamada e acompanhamento via WhatsApp. Colocamos à disposição uma vez ao mês psicólogos, nutricionistas e profissionais da educação física.",
+        "content": "Seu associado com a saúde física e mental em dia! Com o produto Mais Saúde o seu associado tem acesso a consultas por vídeo chamada e acompanhamento via WhatsApp. Colocamos à disposição uma vez ao mês psicólogos, nutricionistas e profissionais da educação física.",
         "vantagens": [
             "Maior rapidez no tratamento do seu cliente",
             "Otimização do tempo",
@@ -188,10 +197,10 @@
     
     {
         "bgcolor": "#C1392B",
-        "icon": "",
+        "icon": "consultas-e-exames.png",
         "bgimage": "consultas-e-exames.jpg",
         "title": "Consultas e Exames",
-        "content": "Com o Desconto em Consultas e Exames o seu cliente poupa dinheiro com o melhor custo-benefício em consultas e exames laboratoriais. Fazemos parte de todo território brasileiro e buscamos clínicas e laboratórios credenciados mais próximos de sua localização.",
+        "content": "Com o Desconto em Consultas e Exames o seu associado poupa dinheiro com o melhor custo-benefício em consultas e exames laboratoriais. Fazemos parte de todo território brasileiro e buscamos clínicas e laboratórios credenciados mais próximos de sua localização.",
         "vantagens": [
             "Mais economia para o seu cliente",
             "Atendimento ágil",
@@ -201,10 +210,10 @@
     },
     {
         "bgcolor": "#2D3E50",
-        "icon": "",
+        "icon": "orientacao-medica.png",
         "bgimage": "orientacao-medica.jpg",
         "title": "Orientação Médica",
-        "content": "Cuidar da saúde deve ser prioridade! Com o produto Orientação Médica sua entidade consegue proporcionar aos clientes agilidade ao tirar dúvidas sobre diagnósticos e exames, especialistas, primeiros socorros, qualidade de sono, entre outros benefícios.",
+        "content": "Cuidar da saúde deve ser prioridade! Com o produto Orientação Médica sua entidade consegue proporcionar aos associados agilidade ao tirar dúvidas sobre diagnósticos e exames, especialistas, primeiros socorros, qualidade de sono, entre outros benefícios.",
         "vantagens": [
             "Atendimento prático e rápido para o seu cliente",
             "Fidelização",
@@ -214,16 +223,16 @@
     },
     {
         "bgcolor": "#D25400",
-        "icon": "",
+        "icon": "medico-em-casa.png",
         "bgimage": "medico-em-casa.jpg",
         "title": "Médico em Casa",
-        "content": "Com o produto Médico em Casa você proporciona ao seu cliente clínicos gerais e pediatras competentes no conforto de casa. Oferecemos médicos capacitados em todo território brasileiro.",
+        "content": "Com o produto Médico em Casa você proporciona ao seu associado clínicos gerais e pediatras competentes no conforto de casa. Oferecemos médicos capacitados em todo território brasileiro.",
         "vantagens": [
             "Atendimento com conforto ao seu cliente",
             "Tempo otimizado",
             "Segurança e privacidade",
             "Agendamento prático",
-            "Fidelização dos clientes"
+            "Fidelização dos associados"
         ]
     }
     
