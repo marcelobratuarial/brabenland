@@ -73,12 +73,22 @@
 
 	   		$message = "<html><head><title>$subject</title></head><body>\n";
 	   		foreach($_POST as $field => $data){
+				if($field == "benef") {
+					
+					$message .= "<div style='border-bottom:1px solid #dadada; padding-bottom:15px;margin-bottom:15px;'><strong>Benefícios</strong>";
+					foreach($data as $ben){
+						
+						$message .= stripslashes($ben).", ";
+					}
+					$message .= "</div>\n";
+				}
 	   			$message .= "<div style='border-bottom:1px solid #dadada; padding-bottom:15px;margin-bottom:15px;'><strong>".ucwords($field)."</strong><br/>".stripslashes($data)."</div>\n";
 	   		}
 	   		$message .= "</body></html>";
 
 		}
-
+		print_r($message);
+exit;
 
 		// To send HTML mail, the Content-type header must be set
 		define('HEADER_TRAIL', "\r\n");

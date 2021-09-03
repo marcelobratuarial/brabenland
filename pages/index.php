@@ -32,6 +32,11 @@
       p.lead {
         text-align: justify;
       }
+      @media screen and (max-width: 900px) {
+        .bg-holder {
+          display: none;
+        }
+      }
     </style>
   </head>
 
@@ -341,7 +346,7 @@
             </footer>
           </div>
           <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-lg-relative">
-            <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt=""/><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt=""/></span>
+            <div class="h-lg-100vh  py-4 "><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt=""/><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt=""/></span>
               <div class="bg-holder" style="background-image:url(assets/img/sidebars/contact.jpg);">
               </div>
               <!--/.bg-holder-->
