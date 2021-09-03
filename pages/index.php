@@ -70,7 +70,12 @@
               <?php foreach ($items as $i) : ?>
               <div class="col-6 col-sm-3 minh-25vh h-md-25vh sidebar-item-wrapper py-5" style="background-color: <?= $i->bgcolor ?>" data-content="<?= slugify($i->title) ?>">
                 <div class="sidebar-item">
-                  <i class="text-white <?= $i->icon ?> mb-3 nav-fa-icon" data-fa-transform="grow-6"></i>
+                  <!-- <i class="text-white <?= $i->icon ?> mb-3 nav-fa-icon" data-fa-transform="grow-6"></i> -->
+                  <?php 
+                  if(!empty($i->icon)) : ?>
+
+                  <img style="width: 32px; height: auto" src="assets/img/icons/beneficios/<?= $i->icon ?>" />
+                  <?php endif; ?>
                   <h2 class="font-weight-medium text-white fs-0 fs-xl-1"><?= $i->title ?></h2>
                 </div>
               </div>

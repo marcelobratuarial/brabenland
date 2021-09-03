@@ -1,7 +1,7 @@
 [
     {
         "bgcolor": "#1BBC9B",
-        "icon": "fas fa-hands-helping",
+        "icon": "assistencia-24h.png",
         "bgimage": "assistencia-24h.jpg",
         "title": "Assistência 24h",
         "content": "Seu cliente solicita com agilidade e segurança todos os serviços de assistência 24h oferecidos pela Brasil Benefícios. O atendimento é realizado por centenas de prestadores, em todo território nacional.",
@@ -14,7 +14,7 @@
     },
     {
         "bgcolor": "#2DCC70",
-        "icon": "fas fa-car",
+        "icon": "carro-reserva.png",
         "bgimage": "carro-reserva.jpg",
         "title": "Carro Reserva",
         "content": "Com o nosso serviço de Carro Reserva você proporciona muito mais segurança  e praticidade aos seus clientes. O produto é disponível para veículos de passeio e utilitário, e três planos são disponibilizados: 7, 15 ou 30 dias. Trabalhamos com a Localiza Rent a Car, a maior rede brasileira de lojas especializadas em aluguel de carros.",
@@ -30,7 +30,7 @@
     },
     {
         "bgcolor": "#3598DB",
-        "icon": "user",
+        "icon": "vidro.png",
         "bgimage": "vidros.jpg",
         "title": "Vidros",
         "content": "Aqui seu cliente possui a comodidade para a troca de vidros com qualidade, melhor preço e assistência. Possuímos cobertura BÁSICA, COMPLETA E PLUS, para quatro tipos de veículo: “Passeio Nacional”, “Passeio Importado”, “Van” e “Caminhão”. Somos parceiros da Autoglass e das melhores redes credenciadas do Brasil.",
@@ -44,7 +44,7 @@
     },
     {
         "bgcolor": "#9A59B5",
-        "icon": "fas fa-car-crash",
+        "icon": "app.png",
         "bgimage": "app.jpg",
         "title": "Seguro App",
         "content": "O objetivo do produto Acidentes Pessoais de Passageiros – APP é resguardar o seu cliente e os passageiros do veículo de possíveis acidentes que eles venham a sofrer e os impeçam de continuar suas atividades de trabalho. O seguro APP tem cobertura para morte por acidente, invalidez, despesas médicas e diárias de internação.",
@@ -59,7 +59,7 @@
 
     {
         "bgcolor": "#16A086",
-        "icon": "user",
+        "icon": "clube-de-descontos.png",
         "bgimage": "clube-de-descontos.jpg",
         "title": "Clube de descontos",
         "content": "Temp",
@@ -69,7 +69,7 @@
 
     {
         "bgcolor": "#27AE61",
-        "icon": "",
+        "icon": "funeral.png",
         "bgimage": "funeral.jpg",
         "title": "Funeral",
         "content": "Com a Assistência Funeral da Brasil Benefícios a sua entidade oferece mais tranquilidade aos seus clientes nos momentos de luto. Contamos com os melhores serviços de funeral, cremação, atendimento social, traslado, entre outros.",
@@ -85,7 +85,7 @@
 
     {
         "bgcolor": "#297FB8",
-        "icon": "user",
+        "icon": "residencial.png",
         "bgimage": "residencial.jpg",
         "title": "Residencial",
         "content": "Temp",
@@ -95,7 +95,7 @@
 
     {
         "bgcolor": "#8D44AD",
-        "icon": "fas fa-paw",
+        "icon": "pet.png",
         "bgimage": "pet.jpg",
         "title": "PET",
         "content": "Os pets fazem parte de muitas famílias e eles também merecem um cuidado especial! Com a Assistência PET da Brasil Benefícios você oferece ao seu cliente um combo de serviços veterinários com uma ampla rede de atendimento para cães e gatos.",
@@ -110,7 +110,7 @@
 
     {
         "bgcolor": "#F1C40F",
-        "icon": "user",
+        "icon": "",
         "bgimage": "seguro-de-vida.jpg",
         "title": "Seguro de vida",
         "content": "Temp",
@@ -120,7 +120,7 @@
 
     {
         "bgcolor": "#E67F22",
-        "icon": "fas fa-tooth",
+        "icon": "odonto.png",
         "bgimage": "odonto.jpg",
         "title": "Odonto",
         "content": "A saúde começa pela boca! Com a Assistência Odontológica da Brasil Benefícios sua entidade fornece serviços como extração dentária, drenagem de abscesso, coroa provisória, restauração e tratamento de urgência de doenças periodontais em fase aguda com dor para seus clientes.",
@@ -135,7 +135,7 @@
 
     {
         "bgcolor": "#E84C3D",
-        "icon": "user",
+        "icon": "",
         "bgimage": "telemedicina.jpg",
         "title": "Telemedicina",
         "content": "A Telemedicina otimiza o tempo do seu cliente e proporciona um serviço de qualidade, por um custo mais baixo. Com esse serviço você proporciona conforto ao seu cliente oferecendo consultas de clínico geral e pediatra competentes por vídeo chamada, possibilitando receber receituário de medicamentos e solicitação de exames. Em casos não emergenciais, os especialistas ficam à disposição 24 horas por dia, abrangendo todo o território brasileiro.",
@@ -153,7 +153,7 @@
 
     {
         "bgcolor": "#34495E",
-        "icon": "user",
+        "icon": "",
         "bgimage": "",
         "title": "Checkup Médico",
         "content": "Temp",
@@ -163,7 +163,7 @@
     
     {
         "bgcolor": "#F39C11",
-        "icon": "user",
+        "icon": "",
         "bgimage": "medicamentos.jpg",
         "title": "Auxílio Medicamento",
         "content": "Temp",
@@ -172,7 +172,7 @@
 
     {
         "bgcolor": "#e74c3c",
-        "icon": "user",
+        "icon": "",
         "bgimage": "",
         "title": "Mais Saúde",
         "content": "Seu cliente com a saúde física e mental em dia! Com o produto Mais Saúde o seu cliente tem acesso a consultas por vídeo chamada e acompanhamento via WhatsApp. Colocamos à disposição uma vez ao mês psicólogos, nutricionistas e profissionais da educação física.",
@@ -188,7 +188,7 @@
     
     {
         "bgcolor": "#C1392B",
-        "icon": "user",
+        "icon": "",
         "bgimage": "consultas-e-exames.jpg",
         "title": "Consultas e Exames",
         "content": "Com o Desconto em Consultas e Exames o seu cliente poupa dinheiro com o melhor custo-benefício em consultas e exames laboratoriais. Fazemos parte de todo território brasileiro e buscamos clínicas e laboratórios credenciados mais próximos de sua localização.",
@@ -201,7 +201,7 @@
     },
     {
         "bgcolor": "#2D3E50",
-        "icon": "fas fa-notes-medical",
+        "icon": "",
         "bgimage": "orientacao-medica.jpg",
         "title": "Orientação Médica",
         "content": "Cuidar da saúde deve ser prioridade! Com o produto Orientação Médica sua entidade consegue proporcionar aos clientes agilidade ao tirar dúvidas sobre diagnósticos e exames, especialistas, primeiros socorros, qualidade de sono, entre outros benefícios.",
@@ -214,7 +214,7 @@
     },
     {
         "bgcolor": "#D25400",
-        "icon": "user",
+        "icon": "",
         "bgimage": "medico-em-casa.jpg",
         "title": "Médico em Casa",
         "content": "Com o produto Médico em Casa você proporciona ao seu cliente clínicos gerais e pediatras competentes no conforto de casa. Oferecemos médicos capacitados em todo território brasileiro.",
