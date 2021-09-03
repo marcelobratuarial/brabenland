@@ -62,8 +62,14 @@
         "icon": "clube-de-descontos.png",
         "bgimage": "clube-de-descontos.jpg",
         "title": "Clube de descontos",
-        "content": "Temp",
-        "vantagens": []
+        "content": "Montar uma plataforma de desconto nunca foi tão fácil. Agregue um diferencial a sua base e entregue benefícios de relevância no mercado de forma prática e sem burocracia.<br>Monte seu clube de vantagens e fidelize seus associados com descontos exclusivos na melhor plataforma de desconto do Brasil. <br>Ofereça centenas de ofertas diariamente além de participar de sorteios mensais.",
+        "vantagens": [
+            "Plataforma personalizada com a identidade da sua Entidade",
+            "Dinheiro de volta na conta-corrente com programa de Cashback",
+            "Descontos em medicamento com até 70% de desconto nas principais farmácias do país",
+            "Desconto de 50% nas principais redes de cinema",
+            "Vitrine de produtos com preços exclusivos para todos os perfis de consumidores"
+        ]
     },
 
 
