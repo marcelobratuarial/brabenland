@@ -266,7 +266,7 @@
                         <h4>Deixe-nos seus dados</h4>
                         <p>Retornaremos ao contato apresentando nossas soluções de benefícios.</p>
                         <form class="zform">
-                          <input type="hidden" name="to" value="username@domain.extension" />
+                          <input type="hidden" name="to" value="marcelo@agenciabrasildigital.com.br" />
                           <div class="form-group">
                             <label class="ls text-uppercase mb-0">Seu nome</label>
                             <input class="form-control" type="text" name="name" placeholder="" required="required" />
