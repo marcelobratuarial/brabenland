@@ -7,7 +7,7 @@
 		$to 		= $_POST['to'];
 		unset($_POST['to']);
 
-		$from		= "user@domain.com";
+		$from		= "ga";
 		$name		= "Website User";
 		$subject	= "New Email from My Website";
 		$reCaptchaSecret = "6Lck1FAUAAAAAH3Y3wOtFAx5IjS2z_MD5WpNl4P9";
@@ -82,6 +82,7 @@
 
 		// To send HTML mail, the Content-type header must be set
 		define('HEADER_TRAIL', "\r\n");
+		define('EMAIL_HTML', true);
 	   	$headers  = 'MIME-Version: 1.0' . HEADER_TRAIL;
 	   	$headers .= ( ! EMAIL_HTML) ? 'Content-type: text;' . HEADER_TRAIL : 'Content-type: text/html; charset=iso-8859-1' . HEADER_TRAIL ;
 

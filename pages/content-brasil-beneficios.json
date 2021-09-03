@@ -181,9 +181,9 @@
 
     {
         "bgcolor": "#e74c3c",
-        "icon": "",
-        "bgimage": "",
-        "title": "Mais Saúde",
+        "icon": "mais-saude.png",
+        "bgimage": "mais-saude.jpg",
+        "title": "+Saúde",
         "content": "Seu associado com a saúde física e mental em dia! Com o produto Mais Saúde o seu associado tem acesso a consultas por vídeo chamada e acompanhamento via WhatsApp. Colocamos à disposição uma vez ao mês psicólogos, nutricionistas e profissionais da educação física.",
         "vantagens": [
             "Maior rapidez no tratamento do seu cliente",
@@ -219,20 +219,6 @@
             "Fidelização",
             "Esclarecimento de dúvidas sem sair de casa",
             "Orientação confiável"
-        ]
-    },
-    {
-        "bgcolor": "#D25400",
-        "icon": "medico-em-casa.png",
-        "bgimage": "medico-em-casa.jpg",
-        "title": "Médico em Casa",
-        "content": "Com o produto Médico em Casa você proporciona ao seu associado clínicos gerais e pediatras competentes no conforto de casa. Oferecemos médicos capacitados em todo território brasileiro.",
-        "vantagens": [
-            "Atendimento com conforto ao seu cliente",
-            "Tempo otimizado",
-            "Segurança e privacidade",
-            "Agendamento prático",
-            "Fidelização dos associados"
         ]
     }
     

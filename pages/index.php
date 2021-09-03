@@ -263,8 +263,8 @@
                         </div>
                       </div>
                       <div class="col-md-6 mb-4 mb-lg-0">
-                        <h4>Drop us a line</h4>
-                        <p>Our team are eagerly waiting to help you growing your business. Please feel free to contact with us.</p>
+                        <h4>Deixe-nos seus dados</h4>
+                        <p>Retornaremos ao contato apresentando nossas soluções de benefícios.</p>
                         <form class="zform">
                           <input type="hidden" name="to" value="username@domain.extension" />
                           <div class="form-group">
